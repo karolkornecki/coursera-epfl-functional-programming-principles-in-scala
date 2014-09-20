@@ -1,0 +1,15 @@
+*.classpath
+*.project
+.settings
+target
+.metadata
+example
+hello_world
+recfun/lib_managed
+recfun/project
+recfun/submission
+recfun/target
+/RemoteSystemsTempFiles
+*.iml
+.idea/
+/pom.xml
