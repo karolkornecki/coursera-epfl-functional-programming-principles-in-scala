@@ -26,6 +26,11 @@ patmat/project
 patmat/sumbission
 patmat/target
 
+forcomp/lib_managed
+forcomp/project
+forcomp/sumbission
+forcomp/target
+
 /RemoteSystemsTempFiles
 *.iml
 .idea/
