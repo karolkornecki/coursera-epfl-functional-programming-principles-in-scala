@@ -1,4 +1,7 @@
 Coursera
 ========
 
-Coursera programming assessments.
+Functional Programming Principles in Scala
+by École Polytechnique Fédérale de Lausanne
+
+Martin Odersky
